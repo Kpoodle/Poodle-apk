@@ -1,2 +1,2 @@
-# Poodle32bit-apk
-Poodle32bit-apk
+# Poodle-apk
+Poodle-apk
